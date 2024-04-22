@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyresparser
+pdfminer3
+streamlit_tags
+PIL
+pymysql
+Flask
