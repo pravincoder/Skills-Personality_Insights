@@ -24,7 +24,7 @@ This project is a web application built with Flask and Streamlit combined that a
 
 1. Clone the repository:
 
-    ```bash
+    ```
     git clone https://github.com/pravincoder/personality_app.git
     ```
 
@@ -43,12 +43,24 @@ This project is a web application built with Flask and Streamlit combined that a
     ```
     
 5.(Start a new Terminal '+') Run the Flask application:
-
-    ```bash
-    python app.py
+    
     ```
-
+    python flask_app.py
+    ```
+    
 6. Access the streamlit application in your web browser at `http://localhost:8501`.
+
+## Sample Output Img
+
+![ScreenShot of Resume analysis 1](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss1.png)
+
+![ScreenShot of Resume analysis 2](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss2.png)
+
+![ScreenShot of personality form 1](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss3.png)
+
+![ScreenShot of personality form 2](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss4.png)
+
+![ScreenShot of Resume analysis 1](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss1.png)
 
 ## Usage
 
@@ -76,5 +88,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - This project was inspired by my friends in our Mini Project Mumbai university.
-- Thanks to the Flask and Chart.js communities for providing excellent resources and documentation.
-- Thanks to kaggle dataset (source)[!https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data] 
+- Thanks to the streamlit,sklearn, Flask and Chart.js communities for providing excellent resources and documentation.
+- Thanks to kaggle dataset [source](https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data) .
