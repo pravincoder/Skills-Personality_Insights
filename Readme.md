@@ -54,13 +54,13 @@ This project is a web application built with Flask and Streamlit combined that a
 
 ![ScreenShot of Resume analysis 1](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss1.png)
 
-![ScreenShot of Resume analysis 2](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss2.png)
+![ScreenShot of Resume analysis 2](https://github.com/pravincoder/Skills-Personality_Insights/blob/main/output_img/ss2.png)
 
-![ScreenShot of personality form 1](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss3.png)
+![ScreenShot of personality form 1](https://github.com/pravincoder/Skills-Personality_Insights/blob/main/output_img/ss3.png)
 
-![ScreenShot of personality form 2](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss4.png)
+![ScreenShot of personality form 2](https://github.com/pravincoder/Skills-Personality_Insights/blob/main/output_img/ss4.png)
 
-![ScreenShot of Resume analysis 1](https://github.com/pravincoder/Skills-Personality_Insights/output_img/ss1.png)
+![ScreenShot of Resume analysis 1](https://github.com/pravincoder/Skills-Personality_Insights/blob/main/output_img/ss1.png)
 
 ## Usage
 
